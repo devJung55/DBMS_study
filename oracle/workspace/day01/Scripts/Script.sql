@@ -1,0 +1,7 @@
+/*Scripts 파일 생성 : ctrl + ]*/
+
+CREATE TABLE TBL_MEMBER(
+	MEMBER_NAME VARCHAR2(1000),
+	MEMBER_AGE NUMBER
+);
+
